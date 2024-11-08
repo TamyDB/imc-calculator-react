@@ -1,0 +1,46 @@
+.header, .result {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 24px;
+}
+
+.result {
+    padding-top: 54px;
+    padding-bottom: 54px;
+}
+
+h1 {
+    padding-bottom: 24px;
+}
+
+.form {
+    padding-top: 56px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.form h2 {
+    padding-right: 14px;
+}
+
+input {
+    width: 64px;
+    margin-right: 24px;
+}
+
+.table {
+    display: table;
+    text-align: center;
+    width: 100%;
+}
+
+.table tr th, .table tr td {
+    border: 1px solid gray;
+}
+
+.bold {
+    font-weight: bold;
+}
+ 
